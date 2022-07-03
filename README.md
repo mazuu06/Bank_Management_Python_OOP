@@ -4,13 +4,13 @@ This a bank management system that is deployed in oop in python language. This u
 
 ## Features
 
-Create new acount
-Login using exsisting account
-Add money
-Show money
-Transfer money
-Change password
-Change phone number
+- Create new acount
+- Login using exsisting account
+- Add money
+- Show money
+- Transfer money
+- Change password
+- Change phone number
 
 
 
